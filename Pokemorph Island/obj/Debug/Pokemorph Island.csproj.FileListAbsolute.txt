@@ -1,0 +1,7 @@
+C:\Users\Desktop PC\source\repos\Pokemorph Island\Pokemorph Island\obj\Debug\Character_Creation.g.cs
+C:\Users\Desktop PC\source\repos\Pokemorph Island\Pokemorph Island\obj\Debug\MainInterface.g.cs
+C:\Users\Desktop PC\source\repos\Pokemorph Island\Pokemorph Island\obj\Debug\MainWindow.g.cs
+C:\Users\Desktop PC\source\repos\Pokemorph Island\Pokemorph Island\obj\Debug\App.g.cs
+C:\Users\Desktop PC\source\repos\Pokemorph Island\Pokemorph Island\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Desktop PC\source\repos\Pokemorph Island\Pokemorph Island\obj\Debug\Pokemorph Island_MarkupCompile.cache
+C:\Users\Desktop PC\source\repos\Pokemorph Island\Pokemorph Island\obj\Debug\Pokemorph Island_MarkupCompile.lref

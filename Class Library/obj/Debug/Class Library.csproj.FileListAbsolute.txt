@@ -1,0 +1,6 @@
+C:\Users\Desktop PC\source\repos\Pokemorph Island\Class Library\bin\Debug\Class Library.dll
+C:\Users\Desktop PC\source\repos\Pokemorph Island\Class Library\bin\Debug\Class Library.pdb
+C:\Users\Desktop PC\source\repos\Pokemorph Island\Class Library\obj\Debug\Class Library.csprojResolveAssemblyReference.cache
+C:\Users\Desktop PC\source\repos\Pokemorph Island\Class Library\obj\Debug\Class Library.csproj.CoreCompileInputs.cache
+C:\Users\Desktop PC\source\repos\Pokemorph Island\Class Library\obj\Debug\Class Library.dll
+C:\Users\Desktop PC\source\repos\Pokemorph Island\Class Library\obj\Debug\Class Library.pdb

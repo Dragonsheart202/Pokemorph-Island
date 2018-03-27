@@ -1,0 +1,15 @@
+﻿<UserControl x:Class="Pokemorph_Island.MainInterface"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:Pokemorph_Island"
+             mc:Ignorable="d" >
+    <Grid>
+        <Button Content="New Game" HorizontalAlignment="Left" Style="{StaticResource RoundCorner}" Margin="10,10,0,0" VerticalAlignment="Top" Width="138" Height="76" Background="#338B0000" Foreground="White" FontFamily="Segoe Print" FontSize="24" FontWeight="Bold" Command="{Binding CharCreaCommand}" CommandParameter="CharCrea"/>
+        <Button Content="Load Game" HorizontalAlignment="Left" Style="{StaticResource RoundCorner}" Margin="10,91,0,0" VerticalAlignment="Top" Width="138" Height="76" Background="#338B0000" Foreground="White" FontFamily="Segoe Print" FontSize="24"/>
+        <Label Content="Pokémorph Island" HorizontalAlignment="Left" Margin="103,313,0,0" VerticalAlignment="Top" Height="111" Width="616" Foreground="#CCFF00C5" FontWeight="Bold" FontFamily="Rage Italic" FontSize="80"/>
+        <Button Content="Settings" HorizontalAlignment="Left" Style="{StaticResource RoundCorner}" Margin="10,172,0,0" VerticalAlignment="Top" Width="138" Height="76" Background="#338B0000" Foreground="White" FontFamily="Segoe Print" FontSize="24"/>
+    </Grid>
+
+</UserControl>

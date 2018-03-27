@@ -1,0 +1,22 @@
+C:\Users\Desktop PC\source\repos\Pokemorph Island\Pokemorph Island\bin\Debug\Pokemorph Island.exe.config
+C:\Users\Desktop PC\source\repos\Pokemorph Island\Pokemorph Island\bin\Debug\Pokemorph Island.exe
+C:\Users\Desktop PC\source\repos\Pokemorph Island\Pokemorph Island\bin\Debug\Pokemorph Island.pdb
+C:\Users\Desktop PC\source\repos\Pokemorph Island\Pokemorph Island\obj\Debug\Pokemorph_Island.csprojResolveAssemblyReference.cache
+C:\Users\Desktop PC\source\repos\Pokemorph Island\Pokemorph Island\obj\Debug\Character_Creation.g.cs
+C:\Users\Desktop PC\source\repos\Pokemorph Island\Pokemorph Island\obj\Debug\MainInterface.g.cs
+C:\Users\Desktop PC\source\repos\Pokemorph Island\Pokemorph Island\obj\Debug\MainWindow.g.cs
+C:\Users\Desktop PC\source\repos\Pokemorph Island\Pokemorph Island\obj\Debug\App.g.cs
+C:\Users\Desktop PC\source\repos\Pokemorph Island\Pokemorph Island\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Desktop PC\source\repos\Pokemorph Island\Pokemorph Island\obj\Debug\Pokemorph Island_MarkupCompile.cache
+C:\Users\Desktop PC\source\repos\Pokemorph Island\Pokemorph Island\obj\Debug\Pokemorph Island_MarkupCompile.lref
+C:\Users\Desktop PC\source\repos\Pokemorph Island\Pokemorph Island\obj\Debug\App.baml
+C:\Users\Desktop PC\source\repos\Pokemorph Island\Pokemorph Island\obj\Debug\Character_Creation.baml
+C:\Users\Desktop PC\source\repos\Pokemorph Island\Pokemorph Island\obj\Debug\MainInterface.baml
+C:\Users\Desktop PC\source\repos\Pokemorph Island\Pokemorph Island\obj\Debug\MainWindow.baml
+C:\Users\Desktop PC\source\repos\Pokemorph Island\Pokemorph Island\obj\Debug\Resources\Buttons.baml
+C:\Users\Desktop PC\source\repos\Pokemorph Island\Pokemorph Island\obj\Debug\Pokemorph Island.g.resources
+C:\Users\Desktop PC\source\repos\Pokemorph Island\Pokemorph Island\obj\Debug\Pokemorph_Island.Properties.Resources.resources
+C:\Users\Desktop PC\source\repos\Pokemorph Island\Pokemorph Island\obj\Debug\Pokemorph_Island.csproj.GenerateResource.Cache
+C:\Users\Desktop PC\source\repos\Pokemorph Island\Pokemorph Island\obj\Debug\Pokemorph_Island.csproj.CoreCompileInputs.cache
+C:\Users\Desktop PC\source\repos\Pokemorph Island\Pokemorph Island\obj\Debug\Pokemorph Island.exe
+C:\Users\Desktop PC\source\repos\Pokemorph Island\Pokemorph Island\obj\Debug\Pokemorph Island.pdb
